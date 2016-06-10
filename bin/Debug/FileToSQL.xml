@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FileToSQL
+</name>
+</assembly>
+<members>
+<member name="M:FileToSQL.Utilities.GetExcelDataTable(System.String,System.String)">
+	<summary>
+ Converts an Excel worksheet to a .Net DataTable
+ </summary>
+	<param name="ExcelConnectionString">ConnectionString. ConnectionString to Excel workbook</param>
+	<param name="WorksheetName">String.  Name of the worksheet to convert to a DataTable</param>
+	<returns>DataTable</returns>
+	<remarks></remarks>
+</member><member name="M:FileToSQL.Utilities.GetExcelWorksheets(System.String)">
+	<summary>
+ Accepts a ConnectionString to an Excel workbook and returns a DataTable of the workbook's worksheet names.
+ </summary>
+	<param name="ExcelConnectionString">ConnectionString to the Excel workbook to process.</param>
+	<returns>DataTable.  A DataTable of worksheet names</returns>
+	<remarks></remarks>
+</member><member name="M:FileToSQL.Utilities.GetSqlServerDataTable(System.String,System.String)">
+	<summary>
+ Accepts a ConnectionString to a SQL Server database and a SELECT query and returns a DataTable.
+ </summary>
+	<param name="ConnectionString">ConnectionString to a SQL Server database. ConnectionString</param>
+	<param name="Query">SELECT query. String.</param>
+	<returns>DataTable</returns>
+	<remarks></remarks>
+</member><member name="M:FileToSQL.Form1.LoadWorksheetsComboBox(System.String)">
+	<summary>
+ Extracts the worksheets from a workbook and loads them into the worksheets combobox
+ </summary>
+	<param name="Workbook">Path to Excel workbook. String.</param>
+	<remarks></remarks>
+</member><member name="P:FileToSQL.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FileToSQL.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:FileToSQL.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,10 @@
+C:\Work\Code\FileToSql\FileToSQL\bin\Debug\FileToSQL.exe
+C:\Work\Code\FileToSql\FileToSQL\bin\Debug\FileToSQL.pdb
+C:\Work\Code\FileToSql\FileToSQL\bin\Debug\FileToSQL.xml
+C:\Work\Code\FileToSql\FileToSQL\obj\x86\Debug\FileToSQL.Form1.resources
+C:\Work\Code\FileToSql\FileToSQL\obj\x86\Debug\FileToSQL.Resources.resources
+C:\Work\Code\FileToSql\FileToSQL\obj\x86\Debug\FileToSQL.vbproj.GenerateResource.Cache
+C:\Work\Code\FileToSql\FileToSQL\obj\x86\Debug\FileToSQL.exe
+C:\Work\Code\FileToSql\FileToSQL\obj\x86\Debug\FileToSQL.xml
+C:\Work\Code\FileToSql\FileToSQL\obj\x86\Debug\FileToSQL.pdb
+C:\Work\Code\FileToSql\FileToSQL\bin\Debug\FileToSQL.exe.config
